@@ -1,7 +1,7 @@
 # ml
-Machine Learning Algorithms
+## Machine Learning Algorithms
 
-Octave implementation
-	-- Simple Linear Regression
-	-- Multi variate Linear Regression
-	-- Gradient Descent with multiple variables
+* Octave implementation
+	1 Simple Linear Regression
+	1 Multi variate Linear Regression
+	1 Gradient Descent with Scaling and Normalization
